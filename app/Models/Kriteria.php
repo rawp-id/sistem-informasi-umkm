@@ -10,4 +10,9 @@ class Kriteria extends Model
     use HasFactory;
 
     protected $guarded = ['id'];
+
+    public function bobot()
+    {
+        return $this->belongsTo(Bobot::class);
+    }
 }

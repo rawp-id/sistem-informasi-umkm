@@ -13,7 +13,7 @@ class UmkmController extends Controller
      */
     public function index()
     {
-        $umkms = Umkm::with('jenisUsaha')->get(); // Get all UMKM records with their related JenisUsaha
+        $umkms = Umkm::with('jenisUsaha')->get(); // Get all UMKM records with their related JenisUsaha '
         return view('umkm.index', compact('umkms'));
     }
 

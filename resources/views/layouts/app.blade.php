@@ -58,14 +58,14 @@
 
                 <li class="nav-item theme-toggle-item">
                     <a href="javascript:void(0);" class="nav-link theme-toggle">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                            stroke-linejoin="round" class="feather feather-moon dark-mode">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                            class="feather feather-moon dark-mode">
                             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                         </svg>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                            stroke-linejoin="round" class="feather feather-sun light-mode">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                            class="feather feather-sun light-mode">
                             <circle cx="12" cy="12" r="5"></circle>
                             <line x1="12" y1="1" x2="12" y2="3"></line>
                             <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -103,9 +103,9 @@
                         </div>
                         <div class="dropdown-item">
                             <a href="user-profile.html">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round" class="feather feather-user">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="feather feather-user">
                                     <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
                                     <circle cx="12" cy="7" r="4"></circle>
                                 </svg> <span>Profile</span>
@@ -113,9 +113,9 @@
                         </div>
                         <div class="dropdown-item">
                             <a href="app-mailbox.html">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round" class="feather feather-inbox">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="feather feather-inbox">
                                     <polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline>
                                     <path
                                         d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z">
@@ -125,9 +125,9 @@
                         </div>
                         <div class="dropdown-item">
                             <a href="auth-boxed-lockscreen.html">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round" class="feather feather-lock">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="feather feather-lock">
                                     <rect x="3" y="11" width="18" height="11" rx="2" ry="2">
                                     </rect>
                                     <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
@@ -136,9 +136,9 @@
                         </div>
                         <div class="dropdown-item">
                             <a href="auth-boxed-signin.html">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round" class="feather feather-log-out">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="feather feather-log-out">
                                     <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
                                     <polyline points="16 17 21 12 16 7"></polyline>
                                     <line x1="21" y1="12" x2="9" y2="12"></line>
@@ -177,9 +177,9 @@
                     </div>
                     <div class="nav-item sidebar-toggle">
                         <div class="btn-toggle sidebarCollapse">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-left">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" class="feather feather-chevrons-left">
                                 <polyline points="11 17 6 12 11 7"></polyline>
                                 <polyline points="18 17 13 12 18 7"></polyline>
                             </svg>
@@ -215,6 +215,33 @@
                         </a>
                     </li>
 
+                    <li class="menu">
+                        <a href="/bobot" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <i class="bi bi-clipboard2-data-fill"></i>
+                                <span>Bobot</span>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li class="menu">
+                        <a href="/kriteria" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <i class="bi bi-clipboard2-data-fill"></i>
+                                <span>Kriteria</span>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li class="menu">
+                        <a href="/saw" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <i class="bi bi-clipboard2-data-fill"></i>
+                                <span>Analitik SAW</span>
+                            </div>
+                        </a>
+                    </li>
+
                 </ul>
 
             </nav>
@@ -236,10 +263,9 @@
                             href="https://designreset.com/cork-admin/">RAWP</a>, All rights reserved.</p>
                 </div>
                 <div class="footer-section f-section-2">
-                    <p class="">Coded with <svg xmlns="http://www.w3.org/2000/svg" width="24"
-                            height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                            class="feather feather-heart">
+                    <p class="">Coded with <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart">
                             <path
                                 d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z">
                             </path>

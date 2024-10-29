@@ -13,8 +13,7 @@ return new class extends Migration
     {
         Schema::create('kriterias', function (Blueprint $table) {
             $table->id();
-            $table->string('kode');
-            $table->string('nama');
+            $table->foreignId('bobot_id')->constrained('bobots');
             $table->string('nama_bobot');
             $table->integer('nilai_bobot');
             $table->timestamps();

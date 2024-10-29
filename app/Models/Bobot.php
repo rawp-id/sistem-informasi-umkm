@@ -10,4 +10,9 @@ class Bobot extends Model
     use HasFactory;
 
     protected $guarded = ['id'];
+
+    public function kriterias()
+    {
+        return $this->hasMany(Kriteria::class);
+    }
 }
